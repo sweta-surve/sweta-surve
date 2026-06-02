@@ -115,14 +115,30 @@ Personal portfolio showcasing skills and education.
 
 ### ⭐ Learn. Build. Improve. Repeat.
 
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### ⭐ Learn. Build. Improve. Repeat.
+
 Thank you for visiting my profile 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=450&lines=Thanks+for+visiting!;Keep+learning+and+building!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=350&lines=Thanks+for+visiting!;Keep+learning+and+building!" />
+
+</td>
+
+<td>
+
+<img src="img/sweta.png" width="120" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-
-<div align="center">
 
 ### ⭐ Learn. Build. Improve. Repeat.
 

@@ -113,7 +113,26 @@ Personal portfolio showcasing skills and education.
 
 <br><br>
 
-### ⭐ Learn. Build. Improve. Repeat.
+
+
+### ⭐ Learn • Build • Improve • Repeat
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=500&lines=Thank+you+for+visiting!;Keep+learning+and+building!;See+you+again+soon!" />
+
+---
+
+<div align="center">
+
+### Thank you for visiting my profile 👋
+
+💻 Passionate about Technology
+
+🚀 Learning, Building and Growing Every Day
+
+</div>
+
+</div>
+
 
 <div align="center">
 
@@ -121,13 +140,7 @@ Personal portfolio showcasing skills and education.
 <tr>
 <td>
 
-### ⭐ Learn. Build. Improve. Repeat.
 
-Thank you for visiting my profile 🚀
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=350&lines=Thanks+for+visiting!;Keep+learning+and+building!" />
-
-</td>
 
 <td>
 

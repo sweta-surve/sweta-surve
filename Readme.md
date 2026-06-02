@@ -123,20 +123,7 @@ Personal portfolio showcasing skills and education.
 
 <div align="center">
 
-### Thank you for visiting my profile 👋
 
-💻 Passionate about Technology
-
-🚀 Learning, Building and Growing Every Day
-
-</div>
-
-</div>
-
-
-<div align="center">
-
-<table>
 <tr>
 <td>
 

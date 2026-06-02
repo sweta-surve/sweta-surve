@@ -107,6 +107,20 @@ Personal portfolio showcasing skills and education.
 📧 [swetarakeshsurve@gmail.com](mailto:swetarakeshsurve@gmail.com)
 
 ---
+<div align="center">
+
+<img src="img/sweta.png" width="100" />
+
+<br><br>
+
+### ⭐ Learn. Build. Improve. Repeat.
+
+Thank you for visiting my profile 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=450&lines=Thanks+for+visiting!;Keep+learning+and+building!" />
+
+</div>
+
 
 <div align="center">
 

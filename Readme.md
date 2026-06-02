@@ -131,7 +131,6 @@ Thank you for visiting my profile 🚀
 
 <td>
 
-<img src="sweta.png" width="120" />
 
 </td>
 </tr>
